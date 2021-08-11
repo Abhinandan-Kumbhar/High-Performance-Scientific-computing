@@ -1,6 +1,6 @@
 ### Project title  
 ## Implemented parallel computing frameworks to parallelize 0th order Generalized Mode Acceleration Method
-**1. Implemented Guyan condensation for model order reduction to scale down the system size by 7 times using MATLAB code**
+**1. Implemented Guyan condensation for model order reduction to scale down the system size by 7 times using MATLAB code**  
 **2.Developed the CUDA kernels and MPI data-sharing frameworks in C code for generalized eigenvalue analysis and dynamics analysis**  
 **3. Achieved 5 times speedup in code runtime with OpenMP,MPI and CUDA frameworks on ParamSanganak supercomputer in IITKanpur**  
 
