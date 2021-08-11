@@ -8,4 +8,4 @@ The **3728** system is reduced to **500** i.e. 7 times mode order reduction
 ### Achieved 5 times speedup in code runtime with OpenMP,MPI and CUDA frameworks on ParamSanganak supercomputer in IITKanpur  
 **Refer to Results and discussion on page 4**  
 
-![Results and Discussion](https://github.com/Abhinandan-Kumbhar/High-Performance-Scientific-computing/blob/main/speed up.PNG)
+![Results and Discussion](https://github.com/Abhinandan-Kumbhar/High-Performance-Scientific-computing/blob/main/speedup.PNG)
