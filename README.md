@@ -1,7 +1,7 @@
 ## Summary
 Implemented parallel computing frameworks like OpenMP, MPI and CUDA C on Param Sanganak, IIT Kanpur to parallelize the 0th order generalized mode acceleration method
 ## Resume points and their proofs
-**1. Implemented Guyan condensation for model order reduction to scale down the system size by 7 times using MATLAB code**  
+**1. Implemented Guyan condensation for Model Order Reduction to scale down the system size by 7 times using MATLAB code**  
 
    <ins>**Proof**</ins>  
    **Refer to Abstract**: The **3728** system is reduced to **500** i.e. 7 times mode order reduction
