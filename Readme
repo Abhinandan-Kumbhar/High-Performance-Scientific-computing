@@ -1,0 +1,26 @@
+#################################################################################
+
+Problem statement
+	GMAM_GMTA.pdf  : Orignal problem statement
+	GMAM_GMTA.Mat  : Matlab file for original (3782x3782) stiffness and mass matrix in sparse format
+	Guyan_hpsc     : Matlab code used for model order reduction
+			 while running this code 'GMAM_GMTA.Mat' has to be kept in same directory
+	KG, MG         : Reduced (500 x 500) Stiffness and matrix in full format obtained after conditioning of matrix obtained from above code
+	MatlabCodeToCompareResults    :   Matlab to code to solve the given problem
+					  KG, MG matrices have to kept in same directory	
+
+Refernces
+	Research papers used while solving the problem
+
+Results
+	Screenshots of results obtained after running codes on Param Sanganak and Matlab graphs.
+
+Scripts
+	Script used for running the OpenMP, OpenMPI and CUDA codes on Param Sanganak
+
+GEVCUDA.cu   -- CUDA code
+GEVMPI.c     -- MPI code
+GEVOMP.c     -- OMP code
+While running above codes, put the KG and MG matrices in same folder
+
+##############################################################################
